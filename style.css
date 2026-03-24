@@ -1,0 +1,50 @@
+h1
+{
+    color: red;
+}
+/*estilo general de la pagina*/
+
+body{
+    font-family: Arial, Helvetica, san5-seif;
+    background-color: #caa7a7;
+    margin: 0;
+    line-height: 1.6;
+}
+header{
+    background-color: #56cfcf;
+    color: white ;
+    text-align: center;
+    padding: 30px 20px;
+}
+nav{
+    background-color: #000000;
+    text-align: center;
+    padding: 12px;
+}
+nav a{
+    color: rgb(203, 84, 123);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #0ff1a6;
+}
+section{
+    background-color: rgb(225, 223, 155);
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 8px;
+}
+img {
+    border-radius: 10px;
+    margin-top: 10px;
+}
+footer {
+    background-color: #2c5046;
+    color: rgb(190, 191, 236);
+    text-align: center;
+    padding: 10px;
+    margin-top: 20px;
+}
